@@ -1,7 +1,5 @@
-# Template Example *(Ex)*
+# OS Parity
 
-# Example Heading
+This program takes two files, file1 and file2, and creates a parity file to recover either one of the files if lost.
 
-Here is the example ReadME text.
 
-# Java-Template
